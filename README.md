@@ -15,6 +15,7 @@ Web App Deployment Using Terraform
 #### Azure Service Reference
 
 #####Azure Web Apps
+
 Azure Web Apps enables you to build and host web applications in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux.
 * [Web App Reference](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-overview)
 

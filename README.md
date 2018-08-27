@@ -8,7 +8,7 @@ Web App Deployment Using Terraform
 - [Terraform Modules](#terraform-modules)
 - [Testing](#testing)
 - [Examples](#examples)
-- [Internal-Security-Policies-and-Guidelines](#Internal-Security-Policies-and-Guidelines)
+- [Internal Security Policies and Guidelines](#Internal-Security-Policies-and-Guidelines)
 
 ### Overview
 

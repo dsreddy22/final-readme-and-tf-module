@@ -8,7 +8,7 @@ Web App Deployment Using Terraform
 - [Terraform Modules](#terraform-modules)
 - [Testing](#testing)
 - [Examples](#examples)
-- [Internal Security Policies and Guidelines](#Internal Security Policies and Guidelines)
+- [Internal-Security-Policies-and-Guidelines](#Internal-Security-Policies-and-Guidelines)
 
 ### Overview
 
@@ -80,7 +80,7 @@ Examples are included in this repository, for more information see the examples 
 ---
 
 
-### Internal Security Policies and Guidelines
+### Internal Security Policies and Guidelines:
 
 All contributions to the CommercialCloud repositories must follow the guidelines outlined in the following guides:
 * [Commercial Cloud Terraform Developers Guide](https://github.optum.com/CommercialCloud-EAC/welcome/tree/master/DEVELOPER_GUIDE.md)

@@ -32,7 +32,7 @@ Azure Web Apps enables you to build and host web applications in the programming
 The following properties are available:
 
 ## Inputs
-### ase_service_plan
+### azure_web_app
 |Property| Description| Default Value|Example Values|
 |---|---|---|---|
 |name|Name of web_apps to created under service plan/environment|Optional|`web_app-random_number`|

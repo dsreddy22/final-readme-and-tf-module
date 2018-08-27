@@ -1,0 +1,12 @@
+2.	Encryption:  
+App settings and connection strings are stored encrypted in Azure, and they're decrypted only before being injected into your app's process memory when the app starts. The encryption keys are rotated regularly.
+
+8.	Logging and Monitoring: 
+Restrict access based on the need to know and least privilege security principles. Restricting access is imperative for organizations that want to enforce security policies for data access. Role-Based Access Control (RBAC) can be used to assign permissions to users, groups, and applications at a certain scope
+ 
+11.	Authentication and Authorization: 
+Azure App Service provides turn-key authentication and authorization of users or client apps, 
+The authentication and authorization module runs in the same sandbox as your application code. Every incoming HTTP request passes through it before being handled by your application code.
+
+13.	Application Protection:  
+Serve internal application using an internal load balancer (ILB), which allows access only from inside your Azure Virtual Network. The ILB has an IP address from your private subnet, which provides total isolation of your apps from the internet.
